@@ -1,2 +1,2 @@
 # Three-Card-Poker
-Simple Python-Based Project made within the ICS4U0 course
+Python-Based Project made within the ICS4U0 course
